@@ -1,0 +1,9 @@
+[submodule "Prerequisites/opencv"]
+	path = Prerequisites/opencv
+	url = git@github.com:opencv/opencv.git
+[submodule "Prerequisites/Pangolin"]
+	path = Prerequisites/Pangolin
+	url = git@github.com:stevenlovegrove/Pangolin.git
+[submodule "Prerequisites/opencv_contrib"]
+	path = Prerequisites/opencv_contrib
+	url = git@github.com:opencv/opencv_contrib.git
